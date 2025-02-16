@@ -14,9 +14,9 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 _____ 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
 
-_____ 1 pt: Program queries user for number of conversation rounds
+**YES** 1 pt: Program queries user for number of conversation rounds
 
-_____ 1 pt: Program carries out requested number of conversation rounds
+**YES** 1 pt: Program carries out requested number of conversation rounds
 
 _____ 1 pt: Allocates static array of canned responses
 
@@ -48,7 +48,7 @@ _____ (Kudos!) Handles you --> me/I dilemma
 
 ## General Items:
 
-_____ 4 pts: Programs implement interfaces and compile without errors or warnings
+**YES** 4 pts: Programs implement interfaces and compile without errors or warnings
 
 _____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
@@ -64,6 +64,6 @@ _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed checklist file)
+**YES** 1 pt: All required files included with submission (including completed checklist file)
 
 _____ 1 pt: `reflection.md` contains your reflection on the assignment
