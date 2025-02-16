@@ -32,9 +32,9 @@ _____ 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
 
 _____ 1 pt: Makes all appropriate mirror replacements
 
-_____ 1 pt: Stores transcript of the conversation in an array
+**YES** 1 pt: Stores transcript of the conversation in an array
 
-_____ 1 pt: Prints transcript when terminating
+**YES** 1 pt: Prints transcript when terminating
 
 ## Kudos:
 
@@ -50,7 +50,7 @@ _____ (Kudos!) Handles you --> me/I dilemma
 
 **YES** 4 pts: Programs implement interfaces and compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+**YES** 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
 _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
@@ -66,4 +66,4 @@ _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
 **YES** 1 pt: All required files included with submission (including completed checklist file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+**YES** 1 pt: `reflection.md` contains your reflection on the assignment
