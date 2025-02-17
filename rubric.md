@@ -12,25 +12,25 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 1 (4 pts)
 
-_____ 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
+**PART** 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
 
 **YES** 1 pt: Program queries user for number of conversation rounds
 
 **YES** 1 pt: Program carries out requested number of conversation rounds
 
-_____ 1 pt: Allocates static array of canned responses
+**YES** 1 pt: Allocates static array of canned responses
 
 ### Level 2 (3 pts)
 
-_____ 1 pt: Uses a canned response when no mirror words detected
+**YES** 1 pt: Uses a canned response when no mirror words detected
 
-_____ 1 pt: Detects the requested set of mirror words (at minimum)
+**YES** 1 pt: Detects the requested set of mirror words (at minimum)
 
-_____ 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
+**YES** 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
 
 ### Level 3 (3 pts)
 
-_____ 1 pt: Makes all appropriate mirror replacements
+**YES** 1 pt: Makes all appropriate mirror replacements
 
 **YES** 1 pt: Stores transcript of the conversation in an array
 
@@ -38,9 +38,9 @@ _____ 1 pt: Makes all appropriate mirror replacements
 
 ## Kudos:
 
-_____ (Kudos!) Handles mirror words with punctuation
+**PART** (Kudos!) Handles mirror words with punctuation
 
-_____ (Kudos!) Generates output with correct punctuation & capitalization
+**PART** (Kudos!) Generates output with correct punctuation & capitalization
 
 _____ (Kudos!) Handles you --> me/I dilemma
 
@@ -52,7 +52,7 @@ _____ (Kudos!) Handles you --> me/I dilemma
 
 **YES** 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+**PART** 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Classes & class members all have Javadoc header comments
 
